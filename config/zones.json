@@ -671,6 +671,9 @@
       "gas": 411,
       "hydro": 36366,
       "oil": 130
+      },
+    "contributors": [
+      "https://github.com/ggtronic"
     },
     "flag_file_name": "ca.png",
     "timezone": null
